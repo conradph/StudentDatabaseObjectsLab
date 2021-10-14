@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.exe
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.deps.json
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.runtimeconfig.json
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.dll
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\bin\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.pdb
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.dll
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.pdb
+C:\Users\PConrad\source\repos\StudentDatabaseObjectsLab\StudentDatabaseObjectsLab\obj\Debug\netcoreapp3.1\StudentDatabaseObjectsLab.genruntimeconfig.cache
